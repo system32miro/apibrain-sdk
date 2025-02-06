@@ -6,11 +6,11 @@
 
 > Torne qualquer API auto-descritiva e compatível com agentes IA em segundos.
 
-O APIBrain SDK é uma ferramenta poderosa que permite transformar APIs FastAPI em endpoints auto-descritivos, facilitando a integração com agentes de IA. Com apenas algumas linhas de código, sua API se torna descobrível e compreensível por sistemas autônomos.
+O APIBrain SDK é uma ferramenta poderosa que permite transformar APIs FastAPI em endpoints auto-descritivos, facilitando a integração com agentes de IA. Com apenas algumas linhas de código a sua API torna-se descobrível e compreensível por sistemas autônomos.
 
 ## 💫 Por que APIBrain?
 
-- **Redução de 90% no Tempo de Integração**: Agentes IA descobrem e compreendem sua API automaticamente
+- **Redução de 90% no Tempo de Integração**: Agentes IA descobrem e compreendem a sua API automaticamente
 - **Zero Configuração Manual**: Schemas e documentação gerados automaticamente
 - **Pronto para o Futuro**: Prepare suas APIs para a era dos agentes autônomos
 - **Compatibilidade Universal**: Funciona com qualquer API FastAPI existente
