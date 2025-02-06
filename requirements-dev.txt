@@ -1,0 +1,22 @@
+# Dependências de teste
+pytest>=6.0.0
+pytest-cov>=2.10.0
+httpx>=0.18.0
+
+# Dependências de desenvolvimento
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+
+# Dependências de build
+build>=0.7.0
+twine>=3.4.2
+
+# Dependências de documentação
+mkdocs>=1.2.3
+mkdocs-material>=8.0.0
+
+# Dependências de qualidade de código
+black>=21.5b2
+flake8>=3.9.2
+isort>=5.9.3 
